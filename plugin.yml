@@ -1,7 +1,7 @@
 name: BattleRoyale
 version: 1.0
-api: 3.0.0-ALPHA12
-author: many1337 (Fixer)
-website: https://github.com/many1337
+api: 3.0.0
+author: PiyushBest, Many1337 (Fixer)
+website: https://github.com/PiyushBest
 description: Minijuego para PocketMine-MP/Altay
 main: BattleRoyale\GameManager
